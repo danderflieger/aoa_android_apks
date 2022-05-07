@@ -1,4 +1,4 @@
-# aoa_android_apks
+# AoA Android APKs
 This is a repository for pre-built Android installation files (commonly known as APK files). In this case, this is where the Angle of Attack Indicator APK files will live.
 
 To install a pre-built APK file:
